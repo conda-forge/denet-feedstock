@@ -1,5 +1,5 @@
 context:
-  version: "0.10.3"
+  version: "0.11.3"
 
 package:
   name: denet
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/btraven00/denet/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 8d0a1b27ee45c36e4e0aacc46a7b675db4f74ef11f6624be02847b3acc30ecb5
+  sha256: 646d07b335454df3a148ed9b2a4a59d9a2391b8bc9d7fcc44c3b9f8d9f2e2229
 
 build:
   number: 0
